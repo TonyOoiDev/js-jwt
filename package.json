@@ -1,0 +1,23 @@
+{
+  "name": "js-jwt",
+  "version": "1.0.0",
+  "description": "Create JWT Token in NodeJS ",
+  "license": "ISC",
+  "author": "Tony Ooi",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "qunit"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.1.0",
+    "eslint-plugin-qunit": "^8.2.6",
+    "globals": "^17.4.0",
+    "qunit": "^2.25.0"
+  }
+}
